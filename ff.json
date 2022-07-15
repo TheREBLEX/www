@@ -1,5 +1,4 @@
-{
-    "Scripts": [
+[
         {
             "Name": "Infinite Yield",
             "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
@@ -1422,4 +1421,3 @@
             "id": 110
         }
     ]
-}
